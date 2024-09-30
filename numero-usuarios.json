@@ -1,4 +1,5 @@
-"Romance": 5,
+[
+  "Romance": 5,
 "Terror": 4,
 "Suspense": 2,
 "Ação": 4,
@@ -6,3 +7,4 @@
 "Ficção": 1,
 "Documentario": 1,
 "Drama": 1,
+]
